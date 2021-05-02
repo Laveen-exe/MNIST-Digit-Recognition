@@ -1,1 +1,1 @@
-MNIST Digit Recognition using Neural Networks
+MNIST Digit Recognition using Neural Networks v1
